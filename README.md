@@ -216,13 +216,5 @@
     </section>
 
 </div>
-
-<footer>
-    <h3>DecodeLabs</h3>
-    <p>Frontend Development Training Program 2026</p>
-    <p>🌐 www.decodelabs.tech</p>
-    <p>📧 decodelabs.tech@gmail.com</p>
-</footer>
-
 </body>
 </html>
