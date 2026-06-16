@@ -216,5 +216,23 @@
     </section>
 
 </div>
+
+<footer>
+    <h3>DecodeLabs</h3>
+    <p>Frontend Development Training Program 2026</p>
+    <p>🌐 www.decodelabs.tech</p>
+    <p>📧 decodelabs.tech@gmail.com</p>
+</footer>
+
 </body>
 </html>
+
+
+
+<img width="1831" height="915" alt="image" src="https://github.com/user-attachments/assets/a0c70ffa-415c-41fe-b234-85c923c103af" />
+
+<img width="1417" height="905" alt="image" src="https://github.com/user-attachments/assets/fb84101f-550f-4bb2-92ad-272734ff68df" />
+
+<img width="1642" height="921" alt="image" src="https://github.com/user-attachments/assets/6273aa0d-b1b2-45dd-af82-60264b6fdb82" />
+
+
